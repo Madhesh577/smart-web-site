@@ -1,1 +1,2 @@
-# smart-web-site
+# MYCIN-WebSite
+Official website of MYCIN-AI-Club. (mycin.in)
